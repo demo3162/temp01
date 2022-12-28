@@ -39,7 +39,7 @@ export const Main = () => {
           Think. Build. Innovate.
         </h1>
         <h1 className="text-center text-glow text-lg mb-4 md:text-3xl font-semibold">
-          Feb 5th - 6th, 2023 &#x2022; GLBITM
+          Feb 1st - 2nd, 2023 &#x2022; GLBITM
         </h1>
         <div className="flex items-center justify-center gap-2 my-2">
           <div className="flex items-center w-50 gap-1">
